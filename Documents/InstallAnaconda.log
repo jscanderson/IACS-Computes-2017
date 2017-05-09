@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  10 NOV 2016 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 MAY 2017 08:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -221,179 +221,172 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
-<Images/Screenshot_1.png, id=1, 1365.1pt x 770.88pt>
+<Images/Screenshot_1.png, id=1, 1450.41875pt x 826.08624pt>
 File: Images/Screenshot_1.png Graphic file (type png)
 
 <use Images/Screenshot_1.png>
 Package pdftex.def Info: Images/Screenshot_1.png used on input line 32.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
+(pdftex.def)             Requested size: 507.65417pt x 289.1345pt.
 
-<Images/Screenshot_2.png, id=3, 1365.1pt x 770.88pt>
+<Images/Screenshot_2.png, id=3, 1446.40375pt x 827.09pt>
 File: Images/Screenshot_2.png Graphic file (type png)
 
 <use Images/Screenshot_2.png>
 Package pdftex.def Info: Images/Screenshot_2.png used on input line 39.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
+(pdftex.def)             Requested size: 506.2489pt x 289.48582pt.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Image
 s/Screenshot_1.png>]
-<Images/Screenshot_3.png, id=12, 1365.1pt x 770.88pt>
+<Images/Screenshot_3.png, id=12, 1447.4075pt x 826.08624pt>
 File: Images/Screenshot_3.png Graphic file (type png)
 
 <use Images/Screenshot_3.png>
 Package pdftex.def Info: Images/Screenshot_3.png used on input line 46.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
+(pdftex.def)             Requested size: 506.60022pt x 289.1345pt.
  [2 <./Images/Screenshot_2.png> <./Images/Screenshot_3.png>] <Images/Screenshot
-_4.png, id=18, 1365.1pt x 770.88pt>
+_4.png, id=18, 1448.41125pt x 869.2475pt>
 File: Images/Screenshot_4.png Graphic file (type png)
 
 <use Images/Screenshot_4.png>
-Package pdftex.def Info: Images/Screenshot_4.png used on input line 53.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
+Package pdftex.def Info: Images/Screenshot_4.png used on input line 56.
+(pdftex.def)             Requested size: 506.95154pt x 304.24118pt.
 
-<Images/Screenshot_5.png, id=19, 375.65344pt x 292.09125pt>
+<Images/Screenshot_5.png, id=19, 622.325pt x 440.64626pt>
 File: Images/Screenshot_5.png Graphic file (type png)
 
 <use Images/Screenshot_5.png>
-Package pdftex.def Info: Images/Screenshot_5.png used on input line 60.
-(pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
-
-<Images/Screenshot_6.png, id=20, 375.65344pt x 292.09125pt>
+Package pdftex.def Info: Images/Screenshot_5.png used on input line 63.
+(pdftex.def)             Requested size: 435.62453pt x 308.45027pt.
+ [3 <./Images/Screenshot_4.png>]
+<Images/Screenshot_6.png, id=24, 629.35126pt x 438.63875pt>
 File: Images/Screenshot_6.png Graphic file (type png)
 
 <use Images/Screenshot_6.png>
-Package pdftex.def Info: Images/Screenshot_6.png used on input line 67.
-(pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
- [3 <./Images/Screenshot_4.png> <./Images/Screenshot_5.png>] <Images/Screenshot
-_7.png, id=25, 375.65344pt x 292.09125pt>
+Package pdftex.def Info: Images/Screenshot_6.png used on input line 70.
+(pdftex.def)             Requested size: 440.54288pt x 307.04501pt.
+ [4 <./Images/Screenshot_5.png>]
+<Images/Screenshot_7.png, id=29, 626.34pt x 439.6425pt>
 File: Images/Screenshot_7.png Graphic file (type png)
 
 <use Images/Screenshot_7.png>
-Package pdftex.def Info: Images/Screenshot_7.png used on input line 74.
-(pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
-
-<Images/Screenshot_8.png, id=26, 375.65344pt x 292.09125pt>
+Package pdftex.def Info: Images/Screenshot_7.png used on input line 77.
+(pdftex.def)             Requested size: 438.435pt x 307.74765pt.
+ [5 <./Images/Screenshot_6.png>]
+<Images/Screenshot_8.png, id=34, 626.34pt x 441.65pt>
 File: Images/Screenshot_8.png Graphic file (type png)
 
 <use Images/Screenshot_8.png>
-Package pdftex.def Info: Images/Screenshot_8.png used on input line 81.
-(pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
- [4 <./Images/Screenshot_6.png> <./Images/Screenshot_7.png>] <Images/Screenshot
-_9.png, id=30, 375.65344pt x 292.09125pt>
+Package pdftex.def Info: Images/Screenshot_8.png used on input line 84.
+(pdftex.def)             Requested size: 438.435pt x 309.15288pt.
+ [6 <./Images/Screenshot_7.png>]
+<Images/Screenshot_9.png, id=39, 375.65344pt x 292.09125pt>
 File: Images/Screenshot_9.png Graphic file (type png)
 
 <use Images/Screenshot_9.png>
-Package pdftex.def Info: Images/Screenshot_9.png used on input line 89.
+Package pdftex.def Info: Images/Screenshot_9.png used on input line 92.
 (pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
 
-<Images/Screenshot_10.png, id=31, 375.65344pt x 292.09125pt>
+<Images/Screenshot_10.png, id=40, 625.33624pt x 441.65pt>
 File: Images/Screenshot_10.png Graphic file (type png)
 
 <use Images/Screenshot_10.png>
-Package pdftex.def Info: Images/Screenshot_10.png used on input line 96.
-(pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
- [5 <./Images/Screenshot_8.png> <./Images/Screenshot_9.png>] <Images/Screenshot
-_11.png, id=35, 375.65344pt x 292.09125pt>
+Package pdftex.def Info: Images/Screenshot_10.png used on input line 99.
+(pdftex.def)             Requested size: 437.73239pt x 309.15288pt.
+ [7 <./Images/Screenshot_8.png> <./Images/Screenshot_9.png>] <Images/Screenshot
+_11.png, id=46, 626.34pt x 439.6425pt>
 File: Images/Screenshot_11.png Graphic file (type png)
 
 <use Images/Screenshot_11.png>
-Package pdftex.def Info: Images/Screenshot_11.png used on input line 103.
-(pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
-
-<Images/Screenshot_12.png, id=36, 375.65344pt x 292.09125pt>
-File: Images/Screenshot_12.png Graphic file (type png)
-
-<use Images/Screenshot_12.png>
-Package pdftex.def Info: Images/Screenshot_12.png used on input line 110.
-(pdftex.def)             Requested size: 262.9556pt x 204.46246pt.
- [6 <./Images/Screenshot_10.png> <./Images/Screenshot_11.png>] <Images/Screensh
-ot_13.png, id=40, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_11.png used on input line 106.
+(pdftex.def)             Requested size: 438.435pt x 307.74765pt.
+ [8 <./Images/Screenshot_10.png>]
+<Images/Screenshot_13.png, id=51, 1445.4pt x 903.375pt>
 File: Images/Screenshot_13.png Graphic file (type png)
 
 <use Images/Screenshot_13.png>
-Package pdftex.def Info: Images/Screenshot_13.png used on input line 117.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
-
-<Images/Screenshot_14.png, id=41, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_13.png used on input line 113.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [9 <./Images/Screenshot_11.png>]
+<Images/Screenshot_14.png, id=56, 1323.94624pt x 774.895pt>
 File: Images/Screenshot_14.png Graphic file (type png)
 
 <use Images/Screenshot_14.png>
-Package pdftex.def Info: Images/Screenshot_14.png used on input line 124.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
- [7 <./Images/Screenshot_12.png> <./Images/Screenshot_13.png>] <Images/Screensh
-ot_16.png, id=47, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_14.png used on input line 120.
+(pdftex.def)             Requested size: 463.38814pt x 271.21732pt.
+ [10 <./Images/Screenshot_13.png> <./Images/Screenshot_14.png>] <Images/Screens
+hot_16.png, id=62, 1445.4pt x 903.375pt>
 File: Images/Screenshot_16.png Graphic file (type png)
 
 <use Images/Screenshot_16.png>
-Package pdftex.def Info: Images/Screenshot_16.png used on input line 131.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
- [8 <./Images/Screenshot_14.png> <./Images/Screenshot_16.png>] <Images/Screensh
-ot_18.png, id=53, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_16.png used on input line 127.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+
+<Images/Screenshot_18.png, id=63, 1445.4pt x 903.375pt>
 File: Images/Screenshot_18.png Graphic file (type png)
 
 <use Images/Screenshot_18.png>
-Package pdftex.def Info: Images/Screenshot_18.png used on input line 138.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
-
-<Images/Screenshot_19.png, id=54, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_18.png used on input line 134.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [11 <./Images/Screenshot_16.png>]
+<Images/Screenshot_19.png, id=68, 1445.4pt x 903.375pt>
 File: Images/Screenshot_19.png Graphic file (type png)
 
 <use Images/Screenshot_19.png>
-Package pdftex.def Info: Images/Screenshot_19.png used on input line 145.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
- [9 <./Images/Screenshot_18.png> <./Images/Screenshot_19.png>] <Images/Screensh
-ot_20.png, id=60, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_19.png used on input line 141.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [12 <./Images/Screenshot_18.png>]
+<Images/Screenshot_20.png, id=73, 1445.4pt x 903.375pt>
 File: Images/Screenshot_20.png Graphic file (type png)
 
 <use Images/Screenshot_20.png>
-Package pdftex.def Info: Images/Screenshot_20.png used on input line 152.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
-
-<Images/Screenshot_21.png, id=61, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_20.png used on input line 148.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [13 <./Images/Screenshot_19.png>]
+<Images/Screenshot_21.png, id=79, 1445.4pt x 903.375pt>
 File: Images/Screenshot_21.png Graphic file (type png)
 
 <use Images/Screenshot_21.png>
-Package pdftex.def Info: Images/Screenshot_21.png used on input line 159.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
- [10 <./Images/Screenshot_20.png>]
-<Images/Screenshot_22.png, id=66, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_21.png used on input line 155.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [14 <./Images/Screenshot_20.png>]
+<Images/Screenshot_22.png, id=84, 1445.4pt x 903.375pt>
 File: Images/Screenshot_22.png Graphic file (type png)
 
 <use Images/Screenshot_22.png>
-Package pdftex.def Info: Images/Screenshot_22.png used on input line 166.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
-
-<Images/Screenshot_23.png, id=67, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_22.png used on input line 162.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [15 <./Images/Screenshot_21.png>]
+<Images/Screenshot_23.png, id=89, 1445.4pt x 903.375pt>
 File: Images/Screenshot_23.png Graphic file (type png)
 
 <use Images/Screenshot_23.png>
-Package pdftex.def Info: Images/Screenshot_23.png used on input line 173.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
- [11 <./Images/Screenshot_21.png> <./Images/Screenshot_22.png>] <Images/Screens
-hot_24.png, id=73, 1365.1pt x 770.88pt>
+Package pdftex.def Info: Images/Screenshot_23.png used on input line 169.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [16 <./Images/Screenshot_22.png>]
+<Images/Screenshot_24.png, id=94, 1445.4pt x 903.375pt>
 File: Images/Screenshot_24.png Graphic file (type png)
 
 <use Images/Screenshot_24.png>
-Package pdftex.def Info: Images/Screenshot_24.png used on input line 180.
-(pdftex.def)             Requested size: 477.79216pt x 269.81204pt.
- [12 <./Images/Screenshot_23.png> <./Images/Screenshot_24.png>] [13] (./Install
+Package pdftex.def Info: Images/Screenshot_24.png used on input line 176.
+(pdftex.def)             Requested size: 505.89758pt x 316.18599pt.
+ [17 <./Images/Screenshot_23.png>] [18 <./Images/Screenshot_24.png>] (./Install
 Anaconda.aux) ) 
 Here is how much of TeX's memory you used:
- 2317 strings out of 493089
- 34484 string characters out of 6134842
+ 2312 strings out of 493089
+ 34352 string characters out of 6134842
  98983 words of memory out of 5000000
- 5783 multiletter control sequences out of 15000+600000
+ 5779 multiletter control sequences out of 15000+600000
  4553 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,5n,33p,754b,153s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb>
-Output written on InstallAnaconda.pdf (13 pages, 1621617 bytes).
+Output written on InstallAnaconda.pdf (18 pages, 7236354 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
